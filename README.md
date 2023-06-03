@@ -2,14 +2,22 @@
 Diffusion Model Using Finite Difference Methods. Class Project for Numerical Methods in Scientific Computing
 
 ## Project structure
-├── bvp.py
-├── docs
-│   ├── Math6602-Proj3.pdf
-│   └── project3.pdf
-├── pics
-│   ├── h=0.1.png
+├── bvp.py 
+
+├── docs \
+
+│   ├── Math6602-Proj3.pdf 
+
+│   └── project3.pdf 
+
+├── pics 
+
+│   ├── h=0.1.png 
+
 │   └── h=0.5.png
+
 ├── project3.ipynb
+
 └── test_bvp.py
 
 ## bvp.py
